@@ -1,0 +1,3 @@
+/Users/cody/Documents/Miva/mivadb/build/CMakeFiles/MivaStudentRecordSystem.dir
+/Users/cody/Documents/Miva/mivadb/build/CMakeFiles/edit_cache.dir
+/Users/cody/Documents/Miva/mivadb/build/CMakeFiles/rebuild_cache.dir

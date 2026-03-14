@@ -1,0 +1,2 @@
+102|35.00|Bob Smith
+101|78.50|Alice Johnson
